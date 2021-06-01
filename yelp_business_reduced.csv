@@ -1,0 +1,30 @@
+business_id,name,neighborhood,address,city,state,postal_code,latitude,longitude,stars,review_count,is_open,categories
+FYWN1wneV18bWNgQjJ2GNg,"""Dental by Design""",,"""4855 E Warner Rd, Ste B9""",Ahwatukee,AZ,85044,33.3306902,-111.9785992,4.0,22,1,Dentists;General Dentistry;Health & Medical;Oral Surgeons;Cosmetic Dentists;Orthodontists
+He-G7vWjzVUysIKrfNbPUQ,"""Stephen Szabo Salon""",,"""3101 Washington Rd""",McMurray,PA,15317,40.2916853,-80.1048999,3.0,11,1,Hair Stylists;Hair Salons;Men's Hair Salons;Blow Dry/Out Services;Hair Extensions;Beauty & Spas
+KQPW8lFf1y5BT2MxiSZ3QA,"""Western Motor Vehicle""",,"""6025 N 27th Ave, Ste 1""",Phoenix,AZ,85017,33.5249025,-112.1153098,1.5,18,1,Departments of Motor Vehicles;Public Services & Government
+8DShNS-LuFqpEWIp0HxijA,"""Sports Authority""",,"""5000 Arizona Mills Cr, Ste 435""",Tempe,AZ,85282,33.3831468,-111.9647254,3.0,9,0,Sporting Goods;Shopping
+PfOCPjBrlQAnz__NXj9h_w,"""Brick House Tavern + Tap""",,"""581 Howe Ave""",Cuyahoga Falls,OH,44221,41.1195346,-81.4756898,3.5,116,1,American (New);Nightlife;Bars;Sandwiches;American (Traditional);Burgers;Restaurants
+o9eMRCWt5PkpLDE0gOPtcQ,"""Messina""",,"""Richterstr. 11""",Stuttgart,BW,70567,48.7272,9.14795,4.0,5,1,Italian;Restaurants
+kCoE3jvEtg6UVz5SOD3GVw,"""BDJ Realty""",Summerlin,"""2620 Regatta Dr, Ste 102""",Las Vegas,NV,89128,36.20743,-115.26846,4.0,5,1,Real Estate Services;Real Estate;Home Services;Property Management
+OD2hnuuTJI9uotcKycxg1A,"""Soccer Zone""",,"""7240 W Lake Mead Blvd, Ste 4""",Las Vegas,NV,89128,36.1974844,-115.2496601,1.5,9,1,Shopping;Sporting Goods
+EsMcGiZaQuG1OOvL9iUFug,"""Any Given Sundae""",,"""2612 Brandt School Rd""",Wexford,PA,15090,40.6151022445,-80.0913487465,5.0,15,1,Coffee & Tea;Ice Cream & Frozen Yogurt;Food
+TGWhGNusxyMaA4kQVBNeew,"""Detailing Gone Mobile""",,"""""",Henderson,NV,89014,36.0558252127,-115.04635039,5.0,7,1,Automotive;Auto Detailing
+XOSRcvtaKc_Q5H1SAzN20A,"""East Coast Coffee""",,"""737 West Pike St""",Houston,PA,15342,40.2415480142,-80.2128151059,4.5,3,0,Breakfast & Brunch;Gluten-Free;Coffee & Tea;Food;Restaurants;Sandwiches
+Y0eMNa5C-YU1RQOZf9XvVA,"""CubeSmart Self Storage""",,"""2414 South Gilbert Road""",Chandler,AZ,85286,33.2717201,-111.7912569,5.0,23,1,Local Services;Self Storage
+xcgFnd-MwkZeO5G2HQ0gAQ,"""T & T Bakery and Cafe""",Markham Village,"""35 Main Street N""",Markham,ON,L3P 1X3,43.8751774,-79.2601532,4.0,38,1,Bakeries;Bagels;Food
+NmZtoE3v8RdSJEczYbMT9g,"""Complete Dental Care""",,"""107 Whitaker Str""",Homestead,PA,15120,40.4014882,-79.8879161,2.0,5,1,General Dentistry;Dentists;Endodontists;Cosmetic Dentists;Health & Medical;Orthodontists
+fNMVV_ZX7CJSDWQGdOM8Nw,"""Showmars Government Center""",Uptown,"""600 E 4th St""",Charlotte,NC,28202,35.2216474,-80.8393449,3.5,7,1,Restaurants;American (Traditional)
+l09JfMeQ6ynYs5MCJtrcmQ,"""Alize Catering""",Yonge and Eglinton,"""2459 Yonge St""",Toronto,ON,M4P 2H6,43.7113993,-79.3993388,3.0,12,0,Italian;French;Restaurants
+IQSlT5jGE6CCDhSG0zG3xg,"""T & Y Nail Spa""",,"""8411 W Thunderbird Rd, Unit 101""",Peoria,AZ,85381,33.6086538,-112.2400118,3.0,20,1,Beauty & Spas;Nail Salons
+b2I2DXtZVnpUMCXp1JON7A,"""Meineke Car Care Center""",,"""2518 Ironwood Dr""",Sun Prairie,WI,53590,43.18508,-89.262047,3.5,9,1,Tires;Oil Change Stations;Auto Repair;Automotive
+0FMKDOU8TJT1x87OKYGDTg,"""Senior's Barber Shop""",,"""13375 W McDowell""",Goodyear,AZ,85395,33.463629,-112.347038,5.0,65,1,Barbers;Beauty & Spas
+Gu-xs3NIQTj3Mj2xYoN2aw,"""Maxim Bakery & Restaurant""",,"""9665 Bayview Avenue, Unit 1-4""",Richmond Hill,ON,L4C 9V4,43.8675648,-79.4126618,3.5,34,1,French;Food;Bakeries;Restaurants
+lHYiCS-y8AFjUitv6MGpxg,"""Starbucks""",Liberty Village,"""85 Hanna Avenue""",Toronto,ON,M6K 3S3,43.6398633116,-79.4195331865,4.0,21,1,Food;Coffee & Tea
+94KziT6DQ9XlBET3WzIv_w,"""Fye""",,"""1928 S Gilbert Rd""",Mesa,AZ,85204,33.3801334,-111.7887679,4.5,4,0,Shopping;Books;Mags;Music & Video;Music & DVDs
+7YIy1tXOor9VCwvaSjuBHg,"""TSA Checkpoint T-4 A - Phoenix Sky Harbor International Airport""",,"""3400 E Sky Harbor Blvd""",Phoenix,AZ,85034,33.4354634,-112.0069893,1.5,46,1,Public Services & Government
+PMH4oUa-bWELKogdtkWewg,"""GoodLife Fitness""",,"""100 City Centre Dr""",Mississauga,ON,L5B 2C9,43.5927528,-79.6430158,2.0,16,1,Fitness & Instruction;Sports Clubs;Gyms;Trainers;Active Life
+VSGcuYDV3q-AAZ9ZPq4fBQ,"""Sportster's""",The Danforth,"""1430 Danforth Avenue""",Toronto,ON,M4J 1N4,43.6828673,-79.3269639,2.5,7,1,Bars;Sports Bars;Nightlife
+1K4qrnfyzKzGgJPBEcJaNQ,"""Chula Taberna Mexicana""",Leslieville,"""1058 Gerrard Street E""",Toronto,ON,M4M 3A6,43.6692562,-79.3359022,3.5,39,1,Tiki Bars;Nightlife;Mexican;Restaurants;Bars
+VBHEsoXQb2AQ76J9l8h1uQ,"""Alfredo's Jewelry""",Southeast,"""5775 S Eastern, Ste 103""",Las Vegas,NV,89119,36.0850508374,-115.119420802,4.5,23,1,Shopping;Jewelry;Watch Repair;Local Services
+AtdXq_gu9NTE5rx4ct_dGg,"""DAVIDsTEA""",Ryerson,"""10 Dundas Street E""",Toronto,ON,M5B 2G9,43.6567287,-79.3807182,4.0,6,1,Coffee & Tea;Food;Tea Rooms
+Dj0S-Oe4ytRJzMGUPgYUkw,"""Panera Bread""",,"""38295 Chestnut Ridge Rd""",Elyria,OH,44035,41.343078,-82.06714,2.0,4,1,Soup;Salad;Sandwiches;Restaurants

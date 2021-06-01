@@ -1,0 +1,54 @@
+Run Docker:
+docker run -it -p 9870:9870 -p 8088:8088 -v $PWD:/app eecsyorku/eecs4415
+
+Part A:
+
+Part1:
+
+hadoop jar /usr/hadoop-3.0.0/share/hadoop/tools/lib/hadoop-streaming-3.0.0.jar \
+-file ./umapper.py \
+-mapper ./umapper.py \
+-file ./ureducer.py \
+-reducer ./ureducer.py \
+-input /yelp_tip-Reduced.csv \
+-output /output
+
+Part2:
+
+hadoop jar /usr/hadoop-3.0.0/share/hadoop/tools/lib/hadoop-streaming-3.0.0.jar \
+-file ./bmapper.py \
+-mapper ./bmapper.py \
+-file ./breducer.py \
+-reducer ./breducer.py \
+-input /yelp_tip-Reduced.csv \
+-output /output
+
+Part3:
+
+hadoop jar /usr/hadoop-3.0.0/share/hadoop/tools/lib/hadoop-streaming-3.0.0.jar \
+-file ./tmapper.py \
+-mapper ./tmapper.py \
+-file ./treducer.py \
+-reducer ./treducer.py \
+-input /yelp_tip-Reduced.csv \
+-output /output
+
+Part B:
+
+hadoop jar /usr/hadoop-3.0.0/share/hadoop/tools/lib/hadoop-streaming-3.0.0.jar \
+-file ./checkinsmapper.py \
+-mapper ./checkinsmapper.py \
+-file ./checkinsreducer.py \
+-reducer ./checkinsreducer.py \
+-input /yelp_checkin_reduced.csv \
+-output /output
+
+Part C:
+
+hadoop jar /usr/hadoop-3.0.0/share/hadoop/tools/lib/hadoop-streaming-3.0.0.jar \
+-file ./iimapper.py \
+-mapper ./iimapper.py \
+-file ./iireducer.py \
+-reducer ./iireducer.py \
+-input /yelp_business_reduced.csv \
+-output /output
